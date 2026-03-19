@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <nav>
-      <h2>My Website</h2>
+      <h2>priyanshu singh</h2>
     </nav>
   );
 }
